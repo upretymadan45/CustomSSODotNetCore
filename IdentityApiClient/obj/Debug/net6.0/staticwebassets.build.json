@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MTkxbpYJpREttbTYjM112X3Z4Ju3xmYYQOQu21+uI8Q=",
+  "Source": "IdentityApiClient",
+  "BasePath": "_content/IdentityApiClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
